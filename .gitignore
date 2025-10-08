@@ -1,10 +1,11 @@
 # custom files
+!/custom/functions/m2vh/
 !/custom/aliases/example.aliases.sh
 !/custom/completions/example.completion.sh
 !/custom/plugins/example/
 !/custom/themes/example/
 !/custom/example.sh
-!/custom/functions/m2vh/*.bash
+
 /custom/
 
 # temp files directories
