@@ -4,6 +4,7 @@
 !/custom/plugins/example/
 !/custom/themes/example/
 !/custom/example.sh
+!/custom/functions/m2vh/*.bash
 /custom/
 
 # temp files directories
